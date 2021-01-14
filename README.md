@@ -6,9 +6,9 @@ A Java Game Application for the requirement in CMSC 22 Object-Oriented Programmi
 In this game, the player is going to make the tiger jump over obstacles to gain points. Bumping on obstacles means game over.
 
 DESIGN PATTERNS:
-Creational Design Pattern - Abstract Factory
-Structural Design Pattern - Decorator
-Behavorial Design Pattern - Chain of Responsibility
+* Creational Design Pattern - Abstract Factory
+* Structural Design Pattern - Decorator
+* Behavorial Design Pattern - Chain of Responsibility
 
 BEST PRACTICES IMPLEMENTED:
 * Source file is lower than 2000 lines of code
